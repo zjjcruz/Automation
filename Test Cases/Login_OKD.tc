@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>access OKD tool</description>
+   <name>Login_OKD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04ce00d4-077d-4a35-868e-082602272ce3</testCaseGuid>
+</TestCaseEntity>
